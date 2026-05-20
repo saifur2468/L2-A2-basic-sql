@@ -4,7 +4,7 @@
 
 ## 📌 Live Links
 🔗 Backend API: https://your-deployment-url.com
-🔗 GitHub Repository: https://github.com/yourusername/devpulse
+🔗 GitHub Repository: https://github.com/saifur2468/L2-A2-basic-sql/tree/main
 🎥 Interview Video: https://your-video-link.com
  ## 🛠️ Tech Stack
 Node.js (LTS)
